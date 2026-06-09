@@ -1,0 +1,6 @@
+(
+echo list volume
+echo select volume C
+echo extend filesystem
+echo exit
+) | diskpart
